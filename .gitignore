@@ -79,3 +79,6 @@ Content/StarterContent/*
 # Mannequins
 Content/Characters/Mannequins/*
 Content/Characters/Mannequin_UE4/*
+
+# Assets
+Content/Characters/RPG_Character/Animations/Assassinations/*
