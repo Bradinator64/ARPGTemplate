@@ -82,6 +82,17 @@ Content/Characters/Mannequin_UE4/*
 
 # Assets
 Content/Characters/RPG_Character/Animations/Assassinations/*
+Content/Characters/RPG_Character/Animations/SwordAttack/Attack1.uasset
+Content/Characters/RPG_Character/Animations/SwordAttack/Attack1_Montage.uasset
+Content/Characters/RPG_Character/Animations/SwordAttack/Attack1_Montage1.uasset
+Content/Characters/RPG_Character/Animations/SwordAttack/Attack2.uasset
+Content/Characters/RPG_Character/Animations/SwordAttack/Attack2_Montage.uasset
+Content/Characters/RPG_Character/Animations/SwordAttack/Attack3.uasset
+Content/Characters/RPG_Character/Animations/SwordAttack/Attack3_Montage.uasset
+Content/Characters/RPG_Character/Animations/SwordAttack/Kick.uasset
+Content/Characters/RPG_Character/Animations/SwordAttack/Kick_Montage.uasset
+Content/Sword/*
+
 
 Content/Audio/Footsteps/*
 Content/Audio/UI/*
