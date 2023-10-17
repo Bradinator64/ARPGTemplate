@@ -92,11 +92,16 @@ Content/Characters/RPG_Character/Animations/SwordAttack/Attack3_Montage.uasset
 Content/Characters/RPG_Character/Animations/SwordAttack/Kick.uasset
 Content/Characters/RPG_Character/Animations/SwordAttack/Kick_Montage.uasset
 Content/Sword/*
+Content/Characters/RPG_Character/Animations/Hit_Reacts/HitReact_Left.uasset
+Content/Characters/RPG_Character/Animations/Hit_Reacts/HitReact_Right.uasset
 
 
 Content/Audio/Footsteps/*
 Content/Audio/UI/*
 Content/Audio/Grunts-Hits/*
+Content/Audio/Sword_Hits/478145__aris621__nasty-knife-stab-2.uasset
+Content/Audio/Sword_Hits/536105__eminyildirim__sword-hit-medium.uasset
+Content/Audio/Sword_Hits/81042__rock-savage__blood-hitting-window.uasset
 
 Content/UI/Fonts/*
 
