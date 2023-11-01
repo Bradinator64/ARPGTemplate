@@ -95,6 +95,8 @@ Content/Characters/RPG_Character/Animations/SwordAttack/Kick.uasset
 Content/Characters/RPG_Character/Animations/SwordAttack/Kick_Montage.uasset
 Content/Characters/RPG_Character/Animations/Hit_Reacts/HitReact_Left.uasset
 Content/Characters/RPG_Character/Animations/Hit_Reacts/HitReact_Right.uasset
+Content/Characters/RPG_Character/Animations/Dodge_Roll/Dodge_Small_Forward_Roll.uasset
+Content/Characters/RPG_Character/Animations/Dodge_Roll/Dodge_Small_Forward_Roll_Montage.uasset
 
 Content/FXs/*
 
