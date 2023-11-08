@@ -81,7 +81,9 @@ Content/Characters/Mannequins/*
 Content/Characters/Mannequin_UE4/*
 
 # Assets
-Content/Sword/*
+Content/Weapons/Sword/*
+Content/Weapons/Medieval_Shield/*
+Content/Weapons/Wooden_Bow/*
 
 Content/Characters/RPG_Character/Animations/Assassinations/*
 Content/Characters/RPG_Character/Animations/SwordAttack/Attack1.uasset
